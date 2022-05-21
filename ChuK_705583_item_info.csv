@@ -1,19 +1,19 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-07-14 21:31:05
-item-10,Dummy Core,13196
+item-10,Dummy Core,13184
 item-31,Basic Training Data,16821
 item-32,Intermediate Training Data,17995
-item-33,Advanced Training Data,24228
+item-33,Advanced Training Data,23028
 -1,kalina_level,30
 -1,kalina_favor,401184
 item-1,T-Doll Contract,2495
-item-2,Equipment Contract,444
-item-3,Quick Production Contract,1011
-item-4,Quick Repair Contract,7383
+item-2,Equipment Contract,446
+item-3,Quick Production Contract,1013
+item-4,Quick Repair Contract,7387
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,24
 item-8,Quick Training Contract,141
-item-9,Enhancement Capsule,3160
+item-9,Enhancement Capsule,3161
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
@@ -21,11 +21,11 @@ item-14,Original Sample,824
 item-15,Pure Sample,473
 item-16,Quick Analysis Contract,1092
 item-17,Data Patch,360
-item-41,Token,4693
+item-41,Token,4694
 item-42,Exchange Ticket,0
 item-43,Black Card,17
-item-44,Calibration Ticket,24716
-item-45,Memory Fragment,1913
+item-44,Calibration Ticket,24476
+item-45,Memory Fragment,1963
 item-46,Special Combat Report,12330
 item-47,Theater Material,2
 item-50,Universal Parts,2627
@@ -43,11 +43,11 @@ item-308,Core Data: PP93,2
 item-506,Battery,154
 item-507,Surplus EXP,240000
 item-508,Friendship Points,320
-item-509,Fairy Command,15
+item-509,Fairy Command,30
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,830
 item-513,Dark Star Kernel,2275
-item-514,Petri Dish,277
+item-514,Petri Dish,299
 item-515,Basic Training Keycode,23630
 item-516,Advanced Training Keycode,9424
 item-519,HOC General Data,156
@@ -57,7 +57,7 @@ item-522,Turret,19
 item-525,Quick Auto-Battle Contract,393
 item-601,Infinite Surprise Dye,2
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,0
 item-604,Electronic Impulse,0
 item-605,Aid Commission,205
 item-606,Transfer Catalyst,40
@@ -320,13 +320,13 @@ item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
 item-4001,City's Gift,5619
-item-4002,Snowfield's Gift,31347
-item-4003,Forest's Gift,15267
-item-4004,Wasteland's Gift,18909
+item-4002,Snowfield's Gift,31382
+item-4003,Forest's Gift,15622
+item-4004,Wasteland's Gift,18944
 item-6001,Ordinary Meat Bun,87
 item-6002,Bundle of Meat Buns,137
 item-6003,Trove of Meat Buns,138
-item-6004,Commonfolk Standard,5
+item-6004,Commonfolk Standard,4
 item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
 item-6007,Strawberry Cheesecake Slice,17
@@ -487,7 +487,7 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,58396
+gift-200001,Combat Report,14543
 gift-200003,Beer on Discount,20
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
