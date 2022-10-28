@@ -13,6 +13,7 @@
 236877,1,★★★★★,3000,100,Warrior Fairy,25.0,80.0,40.0,10.0,0,Fervor,10,Locked
 239321,17,★★★★★,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,0,Damage II,10,Locked
 240170,20,★★★,200,100,Fireworks Fairy,19.2,45.0,19.2,4.8,0,Splendor,10,Locked
+247410,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Damage II,10,Locked
 247621,7,★★★★★,3000,100,Sniper Fairy,0.0,88.0,28.0,15.0,0,Fervor,10,Locked
 264377,1005,★★,115,100,Sehra & Nina,7.5,20.0,25.0,0.0,0,Critical I,10,Locked
 270473,15,★★★★★,3000,100,Command Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
@@ -252,7 +253,6 @@
 782265,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Fervor,1,
 782266,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,0,Sturdy,1,
 185818,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
-247410,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Damage II,10,Locked
-168346,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Fervor,10,Locked
+780414,19,★,0,82,Cooking Fairy,3.6,7.2,28.0,6.8,0,Chef,1,Locked
 763145,29,★,0,1,Cheerleader Fairy,5.6,12.4,3.2,3.2,0,Cheering Type,1,Locked
-780414,19,★,0,79,Cooking Fairy,3.6,6.8,27.2,6.8,0,Chef,1,Locked
+168346,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Fervor,10,Locked
