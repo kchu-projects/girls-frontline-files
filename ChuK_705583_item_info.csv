@@ -1,14 +1,14 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-07-14 21:31:05
-item-10,Dummy Core,36964
+item-10,Dummy Core,37013
 item-31,Basic Training Data,2025
 item-32,Intermediate Training Data,33119
-item-33,Advanced Training Data,81673
+item-33,Advanced Training Data,81493
 -1,kalina_level,30
 -1,kalina_favor,607107
-item-1,T-Doll Contract,6273
-item-2,Equipment Contract,1725
-item-3,Quick Production Contract,1895
+item-1,T-Doll Contract,6275
+item-2,Equipment Contract,1731
+item-3,Quick Production Contract,1897
 item-4,Quick Repair Contract,11649
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,2
@@ -20,7 +20,7 @@ item-13,Name Change Card,9
 item-14,Original Sample,14
 item-15,Pure Sample,16
 item-16,Quick Analysis Contract,2071
-item-17,Data Patch,954
+item-17,Data Patch,955
 item-41,Token,11521
 item-42,Exchange Ticket,0
 item-43,Black Card,8
@@ -49,10 +49,10 @@ item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,20
 item-308,Central Data: PP93,24
 item-309,Central Data: Mk 47,5
-item-506,Battery,161
-item-507,Surplus EXP,960000
+item-506,Battery,56
+item-507,Surplus EXP,844500
 item-508,Friendship Points,2660
-item-509,Fairy Command,45
+item-509,Fairy Command,15
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1990
 item-513,Dark Star Kernel,9625
@@ -69,7 +69,7 @@ item-525,Quick Auto-Battle Contract,1915
 item-601,Infinite Surprise Dye,19
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,4
+item-604,Electronic Impulse,5
 item-605,Aid Commission,541
 item-606,Transfer Catalyst,30
 item-1001,AAT-52 Icon,1
@@ -496,10 +496,10 @@ item-2257,ID: May the Show Never End!,1
 item-2258,Background: Sunny Weather  Perfect for a Bath,1
 item-2259,Background: Midnight,1
 item-2286,ID Card: Wonderful Date,1
-item-4001,City's Gift,20609
-item-4002,Snowfield's Gift,84152
+item-4001,City's Gift,21064
+item-4002,Snowfield's Gift,84193
 item-4003,Forest's Gift,60074
-item-4004,Wasteland's Gift,16308
+item-4004,Wasteland's Gift,16349
 item-6001,Ordinary Meat Bun,122
 item-6002,Bundle of Meat Buns,178
 item-6003,Trove of Meat Buns,176
@@ -508,7 +508,7 @@ item-6005,Comfort Bucket for One,32
 item-6006,Full Meal for Two,25
 item-6007,Strawberry Cheesecake Slice,40
 item-6008,One Week's Cake Selection,33
-item-6009,Sweet Explosives,78
+item-6009,Sweet Explosives,79
 item-6010,"Baby  B-A-B-Y.",100
 item-6011,Streetside Oden,80
 item-6012,Wild Honeycomb,86
@@ -776,7 +776,7 @@ gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
 gift-100021,gift_item-10100021,10
-gift-200001,Combat Report,76587
+gift-200001,Combat Report,76747
 gift-200003,Beer on Discount,20
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
