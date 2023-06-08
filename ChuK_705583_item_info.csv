@@ -1,42 +1,42 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-07-14 21:31:05
-item-10,Dummy Core,37013
+item-10,Dummy Core,37027
 item-31,Basic Training Data,2025
-item-32,Intermediate Training Data,33119
-item-33,Advanced Training Data,81493
+item-32,Intermediate Training Data,33139
+item-33,Advanced Training Data,81193
 -1,kalina_level,30
--1,kalina_favor,607107
-item-1,T-Doll Contract,6275
-item-2,Equipment Contract,1731
-item-3,Quick Production Contract,1897
-item-4,Quick Repair Contract,11649
+-1,kalina_favor,607370
+item-1,T-Doll Contract,6284
+item-2,Equipment Contract,1755
+item-3,Quick Production Contract,1905
+item-4,Quick Repair Contract,11655
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,2
 item-8,Quick Training Contract,436
-item-9,Enhancement Capsule,4301
+item-9,Enhancement Capsule,4311
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,9
-item-14,Original Sample,14
-item-15,Pure Sample,16
-item-16,Quick Analysis Contract,2071
-item-17,Data Patch,955
-item-41,Token,11521
+item-14,Original Sample,4
+item-15,Pure Sample,2
+item-16,Quick Analysis Contract,2072
+item-17,Data Patch,956
+item-41,Token,11561
 item-42,Exchange Ticket,0
 item-43,Black Card,8
-item-44,Calibration Ticket,16095
-item-45,Memory Fragment,3978
-item-46,Special Combat Report,30280
+item-44,Calibration Ticket,16295
+item-45,Memory Fragment,958
+item-46,Special Combat Report,30570
 item-47,Theater Material,5
 item-50,Universal Parts,2642
 item-51,New Type Fire-Control Component,27
-item-53,Gachapon Ticket,100
+item-53,Gachapon Ticket,0
 item-100,Elite Griffin Combat Medal,8
 item-101,Combat Ranking Medal,126
 item-103,Challenger Medal,32
 item-104,Elite Adventurer Medal,6
 item-105,Sangvis-Griffin Coalition Medal,10
-item-106,Chess Champion Medal,1419
+item-106,Chess Champion Medal,1422
 item-107,Wind-Calmer's Medal,1
 item-108,Hell-Walker's Medal,1
 item-109,8th Theater Pioneer Medal,1
@@ -49,28 +49,28 @@ item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,20
 item-308,Central Data: PP93,24
 item-309,Central Data: Mk 47,5
-item-506,Battery,56
-item-507,Surplus EXP,844500
-item-508,Friendship Points,2660
-item-509,Fairy Command,15
+item-506,Battery,191
+item-507,Surplus EXP,960000
+item-508,Friendship Points,3210
+item-509,Fairy Command,60
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1990
 item-513,Dark Star Kernel,9625
 item-514,Petri Dish,5465
-item-515,Basic Training Keycode,34448
-item-516,Advanced Training Keycode,39732
+item-515,Basic Training Keycode,34478
+item-516,Advanced Training Keycode,39762
 item-517,Specified Equipment Contract,0
 item-519,HOC General Data,319
 item-520,Frag Grenade,76
 item-521,Stun Grenade,69
 item-522,Turret,19
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,1915
+item-525,Quick Auto-Battle Contract,1920
 item-601,Infinite Surprise Dye,19
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
 item-604,Electronic Impulse,5
-item-605,Aid Commission,541
+item-605,Aid Commission,542
 item-606,Transfer Catalyst,30
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -218,7 +218,7 @@ item-1348,Background: Midsummer Beach,1
 item-1357,Icon: Trick or Dinergate,1
 item-1358,ID Card: Halloween Fun,1
 item-1359,Background: Survivor's Halloween,1
-item-1366,STEN MkII Neural Upgrade Icon,2
+item-1366,STEN MkII Neural Upgrade Icon,3
 item-1367,M14 Neural Upgrade Icon,3
 item-1368,Gr G36 Neural Upgrade Icon,5
 item-1369,LWMMG Neural Upgrade Icon,5
@@ -436,7 +436,7 @@ item-1953,ID Card: Moment of Conclusion,1
 item-1954,Background: Lazy Afternoon,1
 item-1968,Gr G36C Neural Upgrade Icon,1
 item-1969,Ribeyrolles Neural Upgrade Icon,2
-item-1970,M1 Gepard Neural Upgrade Icon,3
+item-1970,M1 Gepard Neural Upgrade Icon,4
 item-1971,MP-443 Neural Upgrade Icon,4
 item-1987,Intruder - Witch of the End Icon,1
 item-1990,Icon: Pink Eye of Enthrallment,1
@@ -496,9 +496,9 @@ item-2257,ID: May the Show Never End!,1
 item-2258,Background: Sunny Weather  Perfect for a Bath,1
 item-2259,Background: Midnight,1
 item-2286,ID Card: Wonderful Date,1
-item-4001,City's Gift,21064
-item-4002,Snowfield's Gift,84193
-item-4003,Forest's Gift,60074
+item-4001,City's Gift,21102
+item-4002,Snowfield's Gift,84585
+item-4003,Forest's Gift,60112
 item-4004,Wasteland's Gift,16349
 item-6001,Ordinary Meat Bun,122
 item-6002,Bundle of Meat Buns,178
@@ -569,8 +569,8 @@ item-9030,Performance Score,9500
 item-9031,Performance Score,8000
 item-10603,Extra Potential Energy,0
 item-10604,Extra Impulse,25
-item-10605,Level of Activity,240
-item-10606,Frontline Protocol Advanced Card,800
+item-10605,Level of Activity,280
+item-10606,Frontline Protocol Advanced Card,840
 item-100009,Crown of Respect,80
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -770,19 +770,19 @@ item-1500054,Guaranteed T-Doll Indicator,0
 item-1500055,Frontline Protocol - Extra Prize,0
 gift-100001,Lollipop,3764
 gift-100002,Ice Cream Cone,1669
-gift-100003,Strawberry Custard Cheesecake,6490
+gift-100003,Strawberry Custard Cheesecake,6491
 gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
 gift-100021,gift_item-10100021,10
-gift-200001,Combat Report,76747
+gift-200001,Combat Report,75584
 gift-200003,Beer on Discount,20
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
 gift-200021,gift_item-10200021,10
-gift-400001,Rapid Growth Disk,7718
+gift-400001,Rapid Growth Disk,7915
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
