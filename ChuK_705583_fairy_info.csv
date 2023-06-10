@@ -15,7 +15,6 @@
 236877,1,★★★★★,3000,100,Warrior Fairy,25.0,80.0,40.0,10.0,0,Fervor,10,Locked
 239321,17,★★★★★,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,0,Damage II,10,Locked
 240170,20,★★★★★,550,100,Fireworks Fairy,32.0,75.0,32.0,8.0,0,Splendor,10,Locked
-247410,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Damage II,10,Locked
 247621,7,★★★★★,3000,100,Sniper Fairy,0.0,88.0,28.0,15.0,0,Fervor,10,Locked
 264377,1005,★★★★★,550,100,Sehra & Nina,15.0,40.0,50.0,0.0,0,Critical I,10,Locked
 270473,15,★★★★★,3000,100,Command Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
@@ -75,6 +74,7 @@
 886987,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Sturdy,1,Locked
 886988,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Fervor,1,Locked
 886989,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Critical II,1,Locked
+889774,31,★★★★★,550,63,Trap Fairy,13.2,27.0,0.0,0.0,0,Setup,1,Locked
 898717,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Assault,1,
 899011,11,★,0,1,Parachute Fairy,5.6,0.0,5.2,1.2,0,Armor I,1,Locked
 900106,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Keen,1,
@@ -127,7 +127,7 @@
 1002908,1009,★★★,225,1,Drive-In Chicken,2.8,0.0,7.2,2.8,0,Armor I,1,Locked
 1009792,1009,★,0,1,Drive-In Chicken,2.8,0.0,7.2,2.8,0,Suppression,1,
 1009793,1009,★,0,1,Drive-In Chicken,2.8,0.0,7.2,2.8,0,Suppression,1,
-889774,31,★★★★★,550,63,Trap Fairy,13.2,27.0,0.0,0.0,0,Setup,1,Locked
+247410,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Damage II,10,Locked
 679085,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
 699216,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
 897144,7,★★★★★,3000,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Fervor,1,Locked
