@@ -1017,7 +1017,7 @@
 39480682,235,Flash (Shell),★★★★★,Shotgun Flash Shells,-,-,-,8.8092,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 39480862,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,111.5730,-,-,-,-,-,-,0,0,,0,Locked
 39480921,229,SLAP (Ammo),★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5.0000,-,-,240.7320,-,-,-,-,-,-,0,0,,0,Locked
-39480936,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,7.3081,-,-,-,-,-,-,106.985,-,-,-,-,-,-,9900,9,,0,Locked
+39480936,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,7.3081,-,-,-,-,-,-,110.985,-,-,-,-,-,-,10000,10,,0,Locked
 39481124,235,Flash (Shell),★★★★★,Shotgun Flash Shells,-,-,-,9.9364,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 39481331,235,Flash (Shell),★★★★★,Shotgun Flash Shells,-,-,-,9.192,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 39481968,235,Flash (Shell),★★★★★,Shotgun Flash Shells,-,-,-,9.8024,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
@@ -1025,9 +1025,9 @@
 39482600,235,Flash (Shell),★★★★★,Shotgun Flash Shells,-,-,-,8.8592,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 39482637,235,Flash (Shell),★★★★★,Shotgun Flash Shells,-,-,-,8.2236,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 39482696,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,4.5060,-,-,-,-,-,-,-,-,-,-,-,10000,10,,0,Locked
-39485617,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,2.0441,-,-,-,-,-,-,-,-,-,-,-,1200,3,,0,Locked
-39490849,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,2.1392,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
-39491755,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,2.1611,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+39485617,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,3.0735,-,-,-,-,-,-,-,-,-,-,-,10000,10,,0,Locked
+39490849,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,3.2320,-,-,-,-,-,-,-,-,-,-,-,10000,10,,0,Locked
+39491755,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,3.2148,-,-,-,-,-,-,-,-,-,-,-,9250,9,,0,Locked
 39491961,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,2.2307,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 39494046,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,3.4973,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 39494394,305,SF Taclight (Acc),★★★★★,S.F. Modified Tactical Light,-,-,-,-,2.4044,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
